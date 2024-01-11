@@ -1,4 +1,4 @@
-baseURL = 'https://jgk.im/'
+baseURL = 'https://jgk-im.pages.dev/'
 languageCode = 'ko-kr'
 title = '김종격의 게임 블로그'
 theme = 'clarity'
