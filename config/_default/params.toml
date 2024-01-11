@@ -1,4 +1,3 @@
-
 # socials
 twitter = '@jgk_im'
 largeTwitterCard = false
@@ -10,7 +9,7 @@ introURL = false # "about/" 이후 about에 추가 가능
 # showShare = false
 
 # google analytics id
-ga_analytics = ""
+ga_analytics = "G-E2H61M67LP"
 
 # google tag manager
 google_tag_manager_id = ""
@@ -24,8 +23,9 @@ fontsDir = "fonts/"
 
 logo = "logo.png"
 footerLogo = "logo.png"
+favicon = true
 
-mainSections = ["posts"]
+mainSections = ["post", "review"]
 
 mobileNavigation = "right"
 pinFeatured = true

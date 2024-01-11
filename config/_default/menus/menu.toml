@@ -3,6 +3,11 @@ name = "Home"
 url = ""
 weight = -110
 
+[[main]]
+name = "Review"
+url = "review"
+weight = -100
+
 [[social]]
 name = "twitter"
 type = "social"
