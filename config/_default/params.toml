@@ -29,6 +29,7 @@ mainSections = ["posts"]
 
 mobileNavigation = "right"
 pinFeatured = true
-sint = 2024
+since = 2024
+
 [author]
 name = "김종격"
