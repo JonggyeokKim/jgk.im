@@ -1,0 +1,10 @@
+[[main]]
+name = "Home"
+url = ""
+weight = -110
+
+[[social]]
+name = "twitter"
+type = "social"
+weight = 1
+url = "https://twitter.com/#"
