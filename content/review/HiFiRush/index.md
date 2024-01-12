@@ -21,6 +21,9 @@ tags:
   - Rhythm
   - Action
   - PC
+  - Xbox Series
+  - Bethesda Software
+  - Tango Gameworks
 comment: true # Disable comment if false.
 ---
 
