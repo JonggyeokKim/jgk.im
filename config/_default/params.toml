@@ -22,7 +22,7 @@ iconsDir = "icons/"
 fontsDir = "fonts/"
 
 logo = "logo.png"
-footerLogo = "logo.png"
+footerLogo = "logo_128x128.png"
 favicon = true
 
 mainSections = ["post", "review"]
