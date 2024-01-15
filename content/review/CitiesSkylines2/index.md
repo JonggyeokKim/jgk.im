@@ -3,7 +3,7 @@ title: "시티즈: 스카이라인 II, 내가 해봤다" # Title of the blog pos
 date: 2024-01-20T18:29:02+09:00 # Date of post creation.
 description: "Review of game Cities: Skyline 2 / 시티즈: 스카이라인 2 리뷰" # Description used for search engine.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
+draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 abstract: "시티즈: 스카이라인 1을 나름 재밌게해서 2를 기대했지만, 평이 너무 안 좋아서 플레이를 안 하고 있었다. 그런데 게임패스 목록에 있길래 해보고 직접 평가해보자는 생각으로 플레이해봤다."
 # menu: main
