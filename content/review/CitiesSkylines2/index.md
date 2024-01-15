@@ -1,6 +1,6 @@
 ---
 title: "시티즈: 스카이라인 II, 내가 해봤다" # Title of the blog post.
-date: 2024-01-20T18:29:02+09:00 # Date of post creation.
+date: 2024-01-20T12:00:00+09:00 # Date of post creation.
 description: "Review of game Cities: Skyline 2 / 시티즈: 스카이라인 2 리뷰" # Description used for search engine.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
