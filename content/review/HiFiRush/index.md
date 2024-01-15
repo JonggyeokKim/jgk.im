@@ -14,16 +14,16 @@ thumbnail: "/images/0.thumbnail.jpg" # Sets thumbnail image appearing inside car
 shareImage: "/images/path/0.thumbnail.jpg" # Designate a separate image for social media sharing.
 codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
 codeLineNumbers: false # Override global value for showing of line numbers within code block.
-figurePositionShow: true # Override global value for showing the figure label.
+figurePositionShow: false # Override global value for showing the figure label.
 categories:
   - Review
 tags:
   - Rhythm
   - Action
   - PC
-  - Xbox Series
-  - Bethesda Software
-  - Tango Gameworks
+  - Xbox_Series
+  - Bethesda_Software
+  - Tango_Gameworks
 comment: true # Disable comment if false.
 ---
 

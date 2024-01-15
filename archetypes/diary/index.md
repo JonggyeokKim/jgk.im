@@ -15,15 +15,12 @@ thumbnail: "/images/path/thumbnail.png" # Sets thumbnail image appearing inside 
 shareImage: "/images/path/share.png" # Designate a separate image for social media sharing.
 codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
 codeLineNumbers: false # Override global value for showing of line numbers within code block.
-figurePositionShow: false # Override global value for showing the figure label.
+figurePositionShow: true # Override global value for showing the figure label.
 categories:
   - Review
 tags:
-  - genre1
-  - genre2
-  - platform
-  - maker
-  - publisher
+  - Tag_name1
+  - Tag_name2
 # comment: false # Disable comment if false.
 ---
 > 시작멘트
@@ -32,6 +29,4 @@ tags:
 | --------- | --------------- | -------- | --------------- | ------------------------ | ---------- |
 | HiFi Rush | Tango Gameworks | Bethesda | 2023년 1월 23일 | Xbox Series X\|S <br> PC | PC         |
 
-_PC(Steam)에서 약 7시간 플레이 후 리뷰 작성  
-하이파이 러시의 스토리와 관련한 스포일러를 포함할 수 있습니다._
 **Insert Lead paragraph here.**
