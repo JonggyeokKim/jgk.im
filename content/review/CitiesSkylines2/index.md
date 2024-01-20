@@ -33,7 +33,7 @@ tags:
 | ------------------- | -------------- | ------------------- | ---------------- | ------ |
 | Cities: Skylines II | Colossal Order | Paradox Interactive | 2023년 10월 24일 | PC     |
 
-_PC(Steam)에서 약 8시간 플레이 후 리뷰 작성_
+_PC(Game Pass)에서 약 8시간 플레이 후 리뷰 작성_
 
 # 도시 경영 시뮬레이션
 
