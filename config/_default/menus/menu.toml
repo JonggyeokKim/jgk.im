@@ -8,6 +8,11 @@ name = "Review"
 url = "review"
 weight = -100
 
+[[main]]
+name = "Diary"
+url = "diary"
+weight = -90
+
 [[social]]
 name = "twitter"
 type = "social"

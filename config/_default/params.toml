@@ -25,11 +25,13 @@ logo = "logo.png"
 footerLogo = "logo_128x128.png"
 favicon = true
 
-mainSections = ["post", "review"]
+mainSections = ["post", "review", "diary"]
 
 mobileNavigation = "right"
 pinFeatured = true
 since = 2024
+
+
 
 [author]
 name = "김종격"
