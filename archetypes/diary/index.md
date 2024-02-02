@@ -22,6 +22,7 @@ tags:
   - Tag_name1
   - Tag_name2
 # comment: false # Disable comment if false.
+showReadTime: false
 ---
 > 시작멘트
 
