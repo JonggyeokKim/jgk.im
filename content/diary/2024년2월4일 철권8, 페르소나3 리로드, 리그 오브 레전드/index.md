@@ -19,8 +19,12 @@ figurePositionShow: false # Override global value for showing the figure label.
 categories:
   - Review
 tags:
-  - Tag_name1
-  - Tag_name2
+  - 철권 8
+  - Tekken 8
+  - 페르소나 3 리로드
+  - Persona 3 Reload
+  - 리그 오브 레전드
+  - League of Legends
 # comment: false # Disable comment if false.
 showReadTime: false
 ---
