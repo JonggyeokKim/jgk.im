@@ -26,6 +26,7 @@ tags:
   - maker
   - publisher
 # comment: false # Disable comment if false.
+showReadTime: false
 ---
 > 시작멘트
 

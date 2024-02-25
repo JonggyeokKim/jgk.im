@@ -2,7 +2,7 @@
 title: "철권 8 시작했습니다." # Title of the blog post.
 date: 2024-01-28T21:01:22+09:00 # Date of post creation.
 description: "철권 7 찍먹(267시간)한 사람이 철권 8 캐릭터 정하는 이야기" # Description used for search engine.
-featured: true # Sets if post is a featured post, making appear on the home page side bar.
+featured: false # Sets if post is a featured post, making appear on the home page side bar.
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 abstract: "철권 7 찍먹(267시간)한 사람이 철권 8 캐릭터 정하는 이야기"
@@ -19,10 +19,7 @@ figurePositionShow: false # Override global value for showing the figure label.
 categories:
   - Diary
 tags:
-  - Tekken_8
-  - PC
-  - Bandai-Namco
-  - Fighting
+  - 철권 8
 comment: true # Disable comment if false.
 ---
 
@@ -32,7 +29,7 @@ comment: true # Disable comment if false.
 
 아무튼 어제(27일) 오늘(28일) 주말 기념 철권을 좀 했다. 철권 시리즈는 이전에 가끔 잡아봤지만 제대로 한 입문은 군대에서 7로 처음 했다. 가끔 생각날 때마다 열심히 하기도 하면서 럭키 클로에로 세기말에 푸진까지 찍었었다. 
 
-(![Fujin 달성했을 떄의 스크린샷](images/Fujin.jpg))
+![Fujin 달성했을 떄의 스크린샷](images/Fujin.jpg)
 
 예상은 했지만, 7에서 주캐였던 럭키 클로에서 8의 시작 캐릭터에 없어서 주캐로 삼을 캐릭터를 고민했다. 에디도 생각 중이긴 한데 봄에 나올 예정이니 그 전에 계속 고민중이다.
 

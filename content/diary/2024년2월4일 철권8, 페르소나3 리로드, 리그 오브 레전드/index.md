@@ -2,7 +2,7 @@
 title: "2024년2월4일 철권8, 페르소나3 리로드, 리그 오브 레전드" # Title of the blog post.
 date: 2024-02-04T18:43:07+09:00 # Date of post creation.
 description: "2024년 2주차 게임 일기, 철권 8 녹단, 페르소나3 리로드 시작, 리그 오브 레전드 스몰더" # Description used for search engine.
-featured: true # Sets if post is a featured post, making appear on the home page side bar.
+featured: false # Sets if post is a featured post, making appear on the home page side bar.
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 abstract: "24년 2월 2주차의 게임 일기. 철권8 아수세나, 페르소나3 리로드, 리그 오브 레전드의 스몰더, 짧은 이야기"
@@ -17,14 +17,11 @@ codeMaxLines: 10 # Override global value for how many lines within a code block 
 codeLineNumbers: false # Override global value for showing of line numbers within code block.
 figurePositionShow: false # Override global value for showing the figure label.
 categories:
-  - Review
+  - Diary
 tags:
   - 철권 8
-  - Tekken 8
   - 페르소나 3 리로드
-  - Persona 3 Reload
   - 리그 오브 레전드
-  - League of Legends
 # comment: false # Disable comment if false.
 showReadTime: false
 ---
